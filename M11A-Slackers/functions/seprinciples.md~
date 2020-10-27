@@ -1,0 +1,2 @@
+## auth.py:
+* Placed error checking for valid email address and name length into seperate function (DRY)
